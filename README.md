@@ -1,1 +1,1 @@
-a simple CLI minesweeper game
+A simple CLI minesweeper game
